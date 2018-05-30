@@ -1,1 +1,2 @@
-# master.proposal.deepconn
+# DeepCoNN - Evaluate code
+
